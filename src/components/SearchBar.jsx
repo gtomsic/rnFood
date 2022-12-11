@@ -28,8 +28,7 @@ const styles = StyleSheet.create({
     display: "flex",
     flexDirection: "row",
     marginHorizontal: 15,
-    marginTop: 10,
-    paddingHorizontal: 10,
+    marginVertical: 10,
   },
   iconStyle: {
     fontSize: 35,
